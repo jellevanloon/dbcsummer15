@@ -1,0 +1,16 @@
+
+.column{
+  float: left;
+  width: 5%;
+  margin: 5%;
+}
+.container{
+  width: 80%;
+  margin: 0px auto;
+  overflow: auto;
+  zoom: 1;
+}
+.item{
+  width: 5%;
+  height: 100px;
+}
